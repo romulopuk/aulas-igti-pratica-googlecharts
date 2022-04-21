@@ -1,2 +1,4 @@
-# trab_pratico
-Trabalho prático usando React Google Charts
+# Trabalho Prático - AJS
+usando React Google Charts
+
+
